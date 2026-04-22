@@ -9,11 +9,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "compilerOptions": {
+  "compilerOptions": {
     "target": "ES6",
     "module": "CommonJS",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "strict": true
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
   }
 }
